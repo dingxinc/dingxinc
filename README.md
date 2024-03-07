@@ -47,15 +47,15 @@
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
+  <a href= "https://instagram.com" target="_blank" alt="Instagram" title="Instagram">
     <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
   </a>
   &emsp;
-      <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
+      <a href="https://blog.csdn.net/weixin_45068198" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-     <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
+     <a href="https://www.zhihu.com/people/qiu-feng-xiao-di" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
@@ -82,11 +82,21 @@
 <h2></h2>
  
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
- 
-### 🧠 Web and code
- 
- 
-<!-- END_SECTION:douban -->
+
+### :cloud: Day
+
+```text
+摸鱼   🕓 168h0m ██████████████████████████ 100.0%
+干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
+
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
+
+<!--彩虹分割线--> 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<br/>
  
 </td></tr>
  
