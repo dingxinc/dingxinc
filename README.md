@@ -38,7 +38,7 @@
 </p>
  
 <p align="center">
-  <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
+  <a href= "https://mater-1312713760.cos.ap-guangzhou.myqcloud.com/img/202403081108956.png" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
