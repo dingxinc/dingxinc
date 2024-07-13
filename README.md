@@ -11,7 +11,6 @@
     
 - 🔭 I'm learning C++.
 - 🌱 I love electronics very much.
--  :school: I graduated from GDOU.
 - 🤔 Only two things make me moved.
   1. Ride a motorbike to explore the road.
   2. Dating a girlfriend.
